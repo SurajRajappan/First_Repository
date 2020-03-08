@@ -19,3 +19,4 @@ Steps for Github checkin
 14. Now check your git repsitory. You should see the two files.
 
 
+ADD-->Commit-->PUSH
